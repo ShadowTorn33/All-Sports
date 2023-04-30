@@ -13,8 +13,6 @@
 
 <a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/sport_details_page.png" alt="All Sports Sports Detail Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
 
-<a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/more_info_page.png" alt="All Sports More Info Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
-
 <a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/leagues_page.png" alt="All Sports Sports Leagues Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
 
 ### Link to All Sports: 
