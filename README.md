@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+<img src='https://fcasdathletics.org/wp-content/uploads/2012/12/sports-banner.jpg' />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# [All Sports](https://imaginative-pothos-6c914f.netlify.app/)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+- Welcome to All Sports! The site that is inspired by the curiosity of learning about new sports. Within the site, you can find detailed information about various sports around the world. Find out if your favorite sport has any type of leagues!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- This site is a pretty basic site. You can click on the various cards to learn more about that sport. Once clicked, it will take you to the sports list details page. From there you can read the small paragraph about the sport and see the related sports under it. The leagues page will show you all the leagues that are available for the sports of your chosing. Hope you enjoy All Sports as much as we have to create it!
 
-### `npm test`
+<a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/sport_details_page.png" alt="All Sports Sports Detail Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/more_info_page.png" alt="All Sports More Info Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
 
-### `npm run build`
+<a href="https://imaginative-pothos-6c914f.netlify.app/"><img src="src/images/leagues_page.png" alt="All Sports Sports Leagues Page"  style="display: inline-block; margin: 0 auto; max-width: 150px"/></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Link to All Sports: 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [All Sports](https://imaginative-pothos-6c914f.netlify.app/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Additional Resources:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [Decathlon Developrs - Sports API](https://developers.decathlon.com/products/sports/docs)
+- [The SportsDB - All Sports API](https://www.thesportsdb.com/api.php)
+- [The SportsDB - All Leagues API](https://www.thesportsdb.com/api.php)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Future Features
 
-## Learn More
+- [ ] Search Bar Feature to Search for Specific Sports
+- [ ] Location Feature to display Popular Sport or Leagues within your area
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Austin Cheer
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [GitHub](https://github.com/ShadowTorn33)
+- [LinkedIn](https://www.linkedin.com/in/a-cheer/)
